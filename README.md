@@ -1,3 +1,3 @@
 # PeerLIstening
 
-This is a program demo built for Bard High School Early College as a way to implement an anonymous capability to communicate to a peer that is assosciated in the peer listening club idea that was presented.
+This is a program demo built for Bard High School Early College as a way to implement an anonymous capability to communicate to a peer that is associated in the peer listening club. This allows for there to be an open environment without judgement or biases to take place which lets students have an additional safe space. This is especially important with the rise of technology and social media which have brought the problems of cyber bullying and peer pressure to think a certain way because of exposure towards a majority opinion about a situation which causes the students with the minority opinion to feel suppressed and at worst, lost and alone. 
