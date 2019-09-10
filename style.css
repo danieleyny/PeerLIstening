@@ -3,3 +3,13 @@ h2 {text-transform: uppercase; letter-spacing:2px;font-weight:800;margin: 0px au
 h3 {font-size: 1.5em;}
 h4 {font-size: 16; text-transform: uppercase; width: 93px;}
 h5 {font-size: 16; text-transform: uppercase; width: 163px;}
+
+h6.h2moreinfo {
+font-size: 14px;
+color: black;
+}
+
+p.moreinfo1 {
+font-size: 14px;
+color: black;
+}
