@@ -5,11 +5,14 @@ h4 {font-size: 16; text-transform: uppercase; width: 93px;}
 h5 {font-size: 16; text-transform: uppercase; width: 163px;}
 
 h6.h2moreinfo {
-font-size: 14px;
-color: black;
+font-size: 15px;
+color: darkred;
 }
 
 p.moreinfo1 {
 font-size: 14px;
 color: black;
+}
+.linksettings{
+  color: darkred;
 }
