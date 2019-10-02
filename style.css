@@ -17,3 +17,12 @@ color: black;
   color: darkred;
   font-size: 20px;
 }
+.hrgame {
+  width: 100%;
+  color: black;
+  border: dashed;
+  height: 5px;
+}
+.suicidetitle {
+  font-size: 24px;
+}
